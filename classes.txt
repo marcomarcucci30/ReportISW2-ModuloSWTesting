@@ -1,0 +1,9 @@
+BookKeeper (Modulo Maven: bookkeeper-server)
+
+org.apache.bookkeeper.bookie.storage.ldb.Writecache
+org.apache.bookkeeper.proto.checksum.DigestManager
+
+OpenJPA (Modulo Maven: openjpa-kernel)
+
+org.apache.openjpa.util.CacheMap
+org.apache.openjpa.util.ProxyManagerImpl
